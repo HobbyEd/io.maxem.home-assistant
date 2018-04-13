@@ -6,10 +6,10 @@ With this driver you are able to switch your Telsa WallConnector on and off in t
 Todo so you need the following in you configuration.yaml 
 
 ***************************
-switch: 
-  - platform: maxem
-    email: <<email account with which you login in the Maxem Box>>
-    password: <<password>>
-    maxemBoxID: <<in the Maxem Box settings (my.maxem.io) you find your Maxem ID>> 
+'switch: 
+'  - platform: maxem
+'    email: <<email account with which you login in the Maxem Box>>
+'    password: <<password>>
+'    maxemBoxID: <<in the Maxem Box settings (my.maxem.io) you find your Maxem ID>> 
 
 ***************************
